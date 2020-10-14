@@ -1,20 +1,22 @@
-# This week's Schedule (3/1 - 3/7)
+# This week's Schedule (3/15 - 3/21)
 
 ## Lecture
-+ [Unsupervised Learning - Clustering](https://docs.google.com/presentation/d/1hlhKA0fcVUojdC9dUw8tO-vhqbQOENGqwYuqr7Fa_jw/edit?usp=sharing)
++ [Basic Classification](https://docs.google.com/presentation/d/1LhrVq2Q9fnH5fU-X859qA2phK75GMFfhn9Svb7bjSO0/edit?usp=sharing)
 
 ## In-class Activities
-+ K-means Clustering with Scikit-learn
++ Naive Bayes Classification ith Scikit-learn
++ Understanding Logistic Regression
 
-You can clone these notebooks using the Github classroom's __invitation link__.
+You can clone these notebooks using the Github classroom's __invitation link__
 
 Required data file(s) is in the './data/' folder.
 
 Besure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
-+ Competition 1 __Extended Due 3/3__
-+ Competition 2 Topic Selection __Due 3/3__
-  + required files to be updated
-+ mini-project 2 Part2 available __Due 3/17__
-
++ Continuing on Competition 2 __Data Audit Report Due on 3/31__
+  + Competition 2 [Enrollment Link]()
+  + consider the data audit report as the EDA part of your project #1
+    - Resources/Examples added for your convenience [here](https://github.com/DrJieTao/ba545-docs/blob/master/competition2/resources.md)
++ mini-project 2 Part2  __Due 3/17__
++ mini-project 1 Part3 available __Due 3/24__
