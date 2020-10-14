@@ -1,20 +1,19 @@
-# This week's Schedule (3/22 - 3/28)
+# This week's Schedule (3/29-4/4)
 
 ## Lecture
-+ [Basic Classification](https://docs.google.com/presentation/d/1LhrVq2Q9fnH5fU-X859qA2phK75GMFfhn9Svb7bjSO0/edit?usp=sharing)
++ [Advanced Classification](https://docs.google.com/presentation/d/1clcb0XypiyFs77psLixKSaQM8_b_piwv3grOa8MNplE/edit?usp=sharing)
 
 ## In-class Activities
-+ Decision Tree Classification in Python
-+ Random Forest in Python
++ XGBoost in Python
++ Support Vector Machines in Python
 
 You can clone these notebooks using the Github classroom's __invitation link__.
-
-Required data file(s) is in the './data/' folder.
+<!--Required data file(s) is in the './data/' folder.-->
 
 Besure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
-+ Continuing on Competition 2 __Data Audit Report Due on 3/31__
-  + required files to be updated
-+ mini-project 1 Part3  __Due 3/24__
++ Continuing on Competition 2 __Data Audit Report 3/31__, __Initial Models Due 4/14__
+  + Example 1 of the Initial Models [here](https://github.com/BA545-SP2019/2019-competition2-jkj/blob/master/P5_Modeling.ipynb)
+  + Example 2 of the Initial Models [here](https://github.com/BA545-SP2019/2019-competition2-3-musketeers/blob/master/Initial_models.ipynb)
 + mini-project 2 Part3 available  __Due 4/7__
